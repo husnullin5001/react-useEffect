@@ -1,3 +1,7 @@
+This project is a webinar -> https://youtu.be/0ZJgIjIuY7U
+Learn useEffect from youtube chanel Web Dev Simplified
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
